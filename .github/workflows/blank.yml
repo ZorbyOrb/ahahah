@@ -1,0 +1,12 @@
+name: Example Workflow
+
+on: 
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    steps:
+      - name: 23f2005738@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
